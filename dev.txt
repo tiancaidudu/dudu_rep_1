@@ -1,1 +1,1 @@
-change master
+conflict resolve
