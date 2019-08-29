@@ -1,2 +1,2 @@
 # dudu_rep_1
-my test repository
+my test repository dudu
